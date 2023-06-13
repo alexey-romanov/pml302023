@@ -9,3 +9,5 @@ Web application skeleton + socketio
 
 # 3-mongodb
 Mongodb database examples
+* https://www.mongodb.com/try/download/community - download service
+* https://www.mongodb.com/products/compass - view database locally
